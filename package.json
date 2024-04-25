@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "express": "^4.19.2",
+    "express-validator": "^7.0.1",
     "node": "^18.20.2",
+    "passport": "^0.7.0",
     "pg": "^8.11.5",
     "postgre": "^0.1.8",
     "psql": "^0.0.1"
